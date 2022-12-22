@@ -1,0 +1,46 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Verdana', 'serif;';
+}
+
+h1 {
+	font-size: 36px;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+ul, ol {
+	font-size: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+li {
+	color: orange;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: orange;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height: auto;
+
+}
